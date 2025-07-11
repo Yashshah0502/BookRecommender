@@ -8,10 +8,6 @@ A modern, end-to-end semantic book recommendation engine leveraging large langua
 - **Sentiment analysis** to filter or sort books by emotional tone (e.g., Joyful, Sad, Suspenseful).
 - **Interactive Gradio dashboard** for a user-friendly, visual experience.
 
-## Architecture
-The system is built as a modular pipeline, integrating data cleaning, NLP, vector databases, and a web-based dashboard.
-
-Flowchart diagram of the Book Recommender project architecture:
 ## Features
 - **Data Cleaning & Preprocessing:** Handles missing values, normalizes categories, and ensures high-quality inputs.
 - **Vector Embeddings:** Transforms book descriptions into high-dimensional vectors using LLMs.
